@@ -30,3 +30,11 @@ This Terraform project deploys **Discourse** on **DigitalOcean**, integrating:
      ssh-keygen -t rsa -b 4096 -C "your-email@example.com"
      ```
    - Add the public key to your DigitalOcean account.
+
+
+✅ DigitalOcean Droplet for Discourse
+✅ Floating IP for High Availability
+✅ Load Balancer for Scalability
+✅ DigitalOcean DNS for Custom Domain
+✅ Mailgun for Email Notifications
+✅ Remote State Management for Security
