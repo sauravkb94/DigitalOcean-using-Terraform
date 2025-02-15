@@ -32,9 +32,14 @@ This Terraform project deploys **Discourse** on **DigitalOcean**, integrating:
    - Add the public key to your DigitalOcean account.
 
 
-✅ DigitalOcean Droplet for Discourse,
+✅ DigitalOcean Droplet for Discourse
+
 ✅ Floating IP for High Availability,
+
 ✅ Load Balancer for Scalability,
+
 ✅ DigitalOcean DNS for Custom Domain,
+
 ✅ Mailgun for Email Notifications,
+
 ✅ Remote State Management for Security
